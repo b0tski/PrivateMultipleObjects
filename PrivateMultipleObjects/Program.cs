@@ -73,7 +73,6 @@ namespace PrivateMultipleObjects
                             }
                             else
                             {
-                                Console.WriteLine(curSeasons); Console.WriteLine(numOfSeason);
                                 if (curSeasons >= numOfSeason)
                                 {
                                     Console.WriteLine("You have reached the limit!");
